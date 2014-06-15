@@ -3,6 +3,9 @@
 
 ## Loading and preprocessing the data
 
+```r
+data<-read.csv("activity.csv",header = TRUE, sep = ",")
+```
 
 
 

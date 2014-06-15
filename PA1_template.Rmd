@@ -2,7 +2,7 @@
 
 
 ## Loading and preprocessing the data
-```{r, echo=FALSE}
+```{r}
 data<-read.csv("activity.csv",header = TRUE, sep = ",")
 ```
 
